@@ -1,4 +1,4 @@
 # Kokoa Clone 2024 Update
 
-CSS got so much better!!
+HTML and CSS got so much fun!!!
 let's kill React and React Native and Flutter
